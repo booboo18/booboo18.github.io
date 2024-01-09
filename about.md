@@ -1,3 +1,3 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: https://octocat.github.io/about/contact)https://octocat.github.io/about/
+permalink: https://booboo18.github.io/blog/
