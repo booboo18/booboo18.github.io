@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "GLA_ID": "65058", "res_pred": 1.41084980964661 }, "geometry": { "type": "LineString", "coordinates": [ [ -0.128051, 51.508056], [ -0.1194, 51.5033] ] } },
-{ "type": "Feature", "properties": { "GLA_ID": "60878", "res_pred": -0.15459222 }, "geometry": { "type": "LineString", "coordinates": [ [ -0.128051, 51.508056 ], [ -0.018333, 51.503611 ] ] } }
-]
-}
