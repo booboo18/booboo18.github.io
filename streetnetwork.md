@@ -3,7 +3,6 @@
 In this example, we will use Python and OSMnx library to open and visualize a street network map.
 
 ```python
-!pip install osmnx
 
 # Import necessary libraries
 import osmnx as ox
