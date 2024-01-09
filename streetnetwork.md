@@ -16,3 +16,5 @@ graph = ox.graph_from_place(place_name, network_type="drive", dist=1000)
 # Plot the street network
 ox.plot_graph(ox.project_graph(graph))
 ```
+
+![an image of London](London.png)
