@@ -16,3 +16,4 @@ graph = ox.graph_from_place(place_name, network_type="all")
 
 # Plot the street network
 ox.plot_graph(ox.project_graph(graph))
+```
