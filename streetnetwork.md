@@ -8,10 +8,10 @@ In this example, we will use Python and OSMnx library to open and visualize a st
 import osmnx as ox
 
 # Define a location (e.g., a city or an area) for which you want to retrieve the street network
-place_name = "New York, New York, USA"
+place_name = "London,UK"
 
 # Fetch the street network data using OSMnx
-graph = ox.graph_from_place(place_name, network_type="all")
+graph = ox.graph_from_place(place_name, network_type="drive", dist=1000)
 
 # Plot the street network
 ox.plot_graph(ox.project_graph(graph))
